@@ -2,9 +2,9 @@
 Welcome to **Stella Nova!** This repository contains a functional Figma prototype for an exciting educational game developed for the NASA Space Challenge 2024. Stella Nova takes players on an interstellar adventure where they discover Earth-like exoplanets while tackling the challenges of an uncertain future.
 
 This prototype provides an initial look into the game's mechanics and storyline, offering a glimpse into this captivating space expedition.
-
-<img alt="Portada Stella Nova" src="PORTADA stella nova.jpg">
-
+<p align="center">
+<img alt="Portada Stella Nova" src="PORTADA stella nova.jpg" >
+</p>
 
 # ABOUT THE CHALLENGE
 ### Chronicles of Exoplanet Exploration
