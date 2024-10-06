@@ -3,6 +3,7 @@ Welcome to **Stella Nova!** This repository contains a functional Figma prototyp
 
 This prototype provides an initial look into the game's mechanics and storyline, offering a glimpse into this captivating space expedition.
 
+<img alt="Portada Stella Nova" src="">
 
 
 # ABOUT THE CHALLENGE
