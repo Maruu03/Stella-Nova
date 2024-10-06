@@ -17,7 +17,7 @@ Embark on a thrilling journey to revolutionize exoplanet education! The discover
 ## FIGMA
 
 
-# Members
+## Members
 - Mariu Andrade
 - Isabella Martín
 - Alexandre Icaza
