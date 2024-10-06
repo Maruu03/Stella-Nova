@@ -14,15 +14,15 @@ Embark on a thrilling journey to revolutionize exoplanet education! The discover
 # USE OF ARTIFICIAL INTELLIGENCE
 
 
-# FIGMA
+## FIGMA
 
 
 # Members
-> Mariu Andrade
-> Isabella Martín 
-> Alexandre Icaza
-> Nahin Cevallos
-> Raúl Laurido
-> Jose Luis Chong
+- Mariu Andrade
+- Isabella Martín
+- Alexandre Icaza
+- Nahin Cevallos
+- Raúl Laurido
+- Jose Luis Chong
 
 
