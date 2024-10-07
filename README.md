@@ -16,10 +16,16 @@ Embark on a thrilling journey to revolutionize exoplanet education! The discover
 </p>
 
 # WHAT EXACTLY DOES IT DO? HOW DOES IT WORK?
-No se
+The game blends exploration, puzzle-solving, and educational elements. Each exoplanet introduces game mechanics based on the planet’s unique characteristics, allowing players to engage with its environment interactively. As players progress through the story, they learn about these planets, both in the game's fictional universe and in real life. The narrative focuses on the emotional journey of the father and daughter, culminating in a revelation about the importance of Earth’s natural resources.
+
+
 
 # WHAT BENEFITS DOES IT HAVE? WHAT DO YOU HOPE TO ACHIEVE?
-The objectives of the project are to create innovative and creative solutions that enable students to visualize and learn about exoplanets in an accessible and engaging way. The project aims to transform complex scientific concepts into interactive educational tools by leveraging technologies such as virtual reality, dynamic visualizations, and data science. The goal is to inspire curiosity and learning, fostering a deeper understanding and appreciation of the diversity of exoplanets and their significance in the universe.
+- Educational Value: Players learn about exoplanets and their environments in an engaging, hands-on way through game mechanics related to each planet's conditions.
+- Climate Awareness: The game subtly conveys the message of climate change, showing that the resources we need to survive and thrive are already present on Earth, motivating players to value the planet.
+- Emotional Engagement: The story connects with players on an emotional level, creating a memorable experience around family, survival, and the importance of protecting our home planet.
+- Entertainment: Beyond the educational aspects, the game provides fun and challenging gameplay as players explore different worlds and solve unique environmental puzzles.
+
 
 ## ARTIFICIAL INTELLIGENCE
 - Image generation:
@@ -29,7 +35,11 @@ The objectives of the project are to create innovative and creative solutions th
     - Meta IA
 
 - Voice generation:
-    - aa
+    - artlist
+ 
+- Text Generation:
+    - ChatGPT
+
 
 ## RESOURCES:
 - 
