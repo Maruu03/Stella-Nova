@@ -51,7 +51,7 @@ The game blends exploration, puzzle-solving, and educational elements. Each exop
 
 ## FIGMA
 https://www.figma.com/proto/ek9ZdDeNMPC7BPANQBZZOA/SpacePockets!?node-id=23-6&node-type=canvas&t=TFEx4HgSvX47iNKj-1&scaling=contain&content-scaling=fixed&page-id=0%3A1 
- 
+Prototype https://www.figma.com/proto/ek9ZdDeNMPC7BPANQBZZOA/SpacePockets!?node-id=108-89&node-type=frame&t=Rhrz0AiUwBDaZt2M-1&scaling=contain&content-scaling=fixed&page-id=0%3A1
   
 
 ## Members
