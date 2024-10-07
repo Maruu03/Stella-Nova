@@ -43,10 +43,10 @@ The game blends exploration, puzzle-solving, and educational elements. Each exop
 
 ## RESOURCES:
 - [Government of Canada](https://www.asc-csa.gc.ca/eng/astronomy/beyond-our-solar-system/exoplanet-zoo.asp)
-- [VideoFromSpace-Universe](www.google.com)
-- [VideoFromSpace-Sunrise](www.google.com)
+- [VideoFromSpace-Universe](https://www.youtube.com/user/VideoFromSpace)
+- [VideoFromSpace-Sunrise](https://www.youtube.com/watch?v=2PVtJNvNpbM)
 - [SpaceX](https://www.youtube.com/watch?v=921VbEMAwwY)
-- [SpaceCinema](www.google.com)
+- [SpaceCinema](https://www.thespacecinema.it/)
 - [NASA Exoplanets](https://science.nasa.gov/exoplanets/)
 
 ## FIGMA
